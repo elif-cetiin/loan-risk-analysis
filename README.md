@@ -11,6 +11,15 @@ This project analyzes loan applicant data to understand risk patterns and identi
 - RiskScore distribution & segmentation
 - Model-driven analytical interpretation
 
+## Project Structure
+├── .gitignore
+├── C00564763_INFX502_loanDataset_Project.pdf
+├── LICENSE
+├── LoanData.csv
+├── LoanData.ipynb
+└── README.md
+
+
 ## Technologies Used
 - Jupyter Notebook
 - Python + R inside Colab
